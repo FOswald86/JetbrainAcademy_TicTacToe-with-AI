@@ -11,9 +11,9 @@ AI vs AI
 #Start:  
 enter command "start" followed by 2 parameters like "easy/medium/hard" (for AI difficulty) and "user"  
 examples:  
-start user easy (User is player 1)  
-start medium user (User is player 2)
-start easy hard (Let the AI`s duel themselfs)
+start user easy (User is player 1, AI on difficulty easy is player 2)  
+start medium user (AI on difficulty medium is player 1, User is player 2)
+start medium hard (let the medium difficulty AI try to defend against the hard difficulty AI)
 
 #Play:
 enter coordinates like... 1 2 where the first digit selects the line and the second number selects the row.
