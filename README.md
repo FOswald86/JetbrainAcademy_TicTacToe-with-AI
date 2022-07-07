@@ -24,6 +24,6 @@ possible outcomes: X wins, O Wins, Draw
 #Restart/Exit  
 enter new input command to restart or "exit" to quit
 
-<img src="https://github.com/FOswald86/JetbrainAcademy_TicTacToe/blob/main/TicTacToe.gif" width="800" height="500" />  
+<img src="https://github.com/FOswald86/JetbrainAcademy_TicTacToe-with-AI/blob/main/TicTacToeAI.gif" width="800" height="500" />  
 
 https://hyperskill.org/projects/81?track=1  
